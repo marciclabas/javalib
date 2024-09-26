@@ -1,4 +1,4 @@
-package uk.marcelc.testlib;
+package uk.marcelc.javalib;
 
 public class Lib {
   public static String getHello() {
